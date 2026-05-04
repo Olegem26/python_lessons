@@ -1,4 +1,4 @@
-def rhomb(h):
+'''def rhomb(h):
     for i in range(h):
         spaces = (h - i) - 1
         stars = (2 * i) + 1
@@ -12,7 +12,7 @@ def rhomb(h):
     return rhomb
     
 result = rhomb(4)
-print(result)
+print(result)'''
 
 
 
